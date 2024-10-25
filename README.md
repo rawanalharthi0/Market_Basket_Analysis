@@ -4,6 +4,8 @@
 
 • The important libraries used in this project are: pandas, mlxtend, seaborn, matplotlib, and plotly.
 
+• Market Basket Analysis Dataset: https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis
+
 • Team Members: 
 
 Rawan Alharthi 444001029
@@ -11,5 +13,3 @@ Rawan Alharthi 444001029
 Mashael Abdali 444001062
 
 Shaimaa Alghamdi 444000746
-
-• Market Basket Analysis Dataset: https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis
